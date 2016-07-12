@@ -1,2 +1,3 @@
 # surface-program
-code for surface project
+
+hi there, hello world!
